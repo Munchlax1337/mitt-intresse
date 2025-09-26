@@ -19,10 +19,14 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  text-decoration: underline;
+}
+
 section {
   padding: 20px;
   margin: 10px auto;
   max-width: 700px;
-  background-color: rgb(240, 240, 46);
+  background: white;
   border-radius: 8px;
 }
